@@ -685,17 +685,17 @@ case 'set': {
                     title: '𝙏𝘼𝘽 𝙎𝙀𝘾𝙏𝙄𝙊𝙉❕',
                     sections: [
                         {
-                            title: `ʀᴇᴅ ᴅᴇᴠɪʟ x ᴍᴅ`,
-                            highlight_label: '',
+                            title: `LEHAN-MD MINI`,
+                            highlight_label: 'LEHAN-MD MINI',
                             rows: [
                                 {
                                     title: '❲ DOWNLOAD COMMANDS ⬇️ ❳',
-                                    description: 'ʀᴇᴅ ᴅᴇᴠɪʟ x ᴍᴅ',
+                                    description: 'LEHAN-MD MINI',
                                     id: `${config.PREFIX}dmenu`,
                                 },
                                 {
                                     title: ' ❲ OWNER COMMANDS 👀 ❳',
-                                    description: 'ʀᴇᴅ ᴅᴇᴠɪʟ x ᴍᴅ',
+                                    description: 'LEHAN-MD MINI',
                                     id: `${config.PREFIX}ownermenu`,
                                 },
                             ],
@@ -731,7 +731,7 @@ Download Menu
 * .tiktok
 
 
-> ʀᴇᴅ ᴅᴇᴠɪʟ x ᴍᴅ 🔥`;
+> LEHAN-MD MINI 🔥`;
 
     const templateButtons = [
         {

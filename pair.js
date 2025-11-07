@@ -37,7 +37,7 @@ const config = {
     MAX_RETRIES: 3,
     GROUP_INVITE_LINK: 'https://chat.whatsapp.com/LW0lppGt2rdJ4yVv93iKz1?mode=wwt',
     ADMIN_LIST_PATH: './admin.json',
-    RCD_IMAGE_PATH: 'https://files.catbox.moe/1cfpdk.jpg',
+    RCD_IMAGE_PATH: 'https://files.catbox.moe/llx7rg.jpg',
     NEWSLETTER_JID: ' 120363421317920164@newsletter',
     NEWSLETTER_MESSAGE_ID: '428',
     OTP_EXPIRY: 300000,
